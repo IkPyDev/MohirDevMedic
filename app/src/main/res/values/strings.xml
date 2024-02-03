@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MohirDevMedic</string>
+    <string name="star_welcome">Welcome to Medica! 👋</string>
+    <string name="start_dis"><![CDATA[The best online doctor appointment & consultation app of the century for your health and medical needs!]]></string>
+    <string name="on1_des"><![CDATA[Thousands of doctors & experts to help your health!]]></string>
+    <string name="next">Next</string>
+    <string name="sign_title">Let’s you in</string>
+    <string name="sign_facebook">Continue with Facebook</string>
+    <string name="or">OR</string>
+    <string name="sign_google">Continue with Google</string>
+    <string name="sign_apple">Continue with Apple</string>
+    <string name="sign_button">Sign in with password</string>
+    <string name="sign_dont">Don’t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_title">Create New Account</string>
+    <string name="sign_up_email">Email</string>
+    <string name="sign_up_pass">Password</string>
+    <string name="or_with">or continue with</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_dont">Already have an account?</string>
+    <string name="sign_in_title">Login to Your Account</string>
+    <string name="sign_in_forgot">Forgot the password?</string>
+    <string name="on1_dis"><![CDATA[Thousands of doctors & experts to help your health!]]></string>
+    <string name="on2_dis"><![CDATA[Health checks & consultations easily anywhere anytime]]></string>
+    <string name="on3_dis">Let\'s start living healthy and well with us right now!</string>
+</resources>

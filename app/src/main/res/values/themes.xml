@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MohirDevMedic" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryContainer">@color/white</item>
+        <item name="colorSecondaryVariant" >@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+    </style>
+
+    <style name="EditTextHintStyle" parent="Base.Theme.MohirDevMedic">
+        <item name="android:textColor">@color/gray_edit</item>
+    </style>
+    <style name="Theme.MohirDevMedic" parent="Base.Theme.MohirDevMedic" />
+</resources>

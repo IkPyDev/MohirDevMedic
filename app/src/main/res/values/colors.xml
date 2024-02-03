@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="edit_color">#9E9E9E</color>
+    <color name="gray_divider">#616161</color>
+    <color name="gray_edit">#FAFAFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#246BFD</color>
+
+</resources>
